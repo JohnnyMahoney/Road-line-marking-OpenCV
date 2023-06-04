@@ -1,5 +1,5 @@
-# Road-line-marking-OpenCV!
-[image](https://github.com/JohnnyMahoney/Road-line-marking-OpenCV/assets/93386095/084fc142-a3ac-48fb-b2b9-f14dfb233021)
+# Road-line-marking-OpenCV
+![image](https://github.com/JohnnyMahoney/Road-line-marking-OpenCV/assets/93386095/084fc142-a3ac-48fb-b2b9-f14dfb233021)
 
 ![image](https://github.com/JohnnyMahoney/Road-line-marking-OpenCV/assets/93386095/c1a2b6c4-f9cf-4867-81ce-faf108cc6fdf)
 
