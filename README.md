@@ -1,6 +1,4 @@
-# Road-line-marking-OpenCV
 # Photo and video analyzing of road line
-
 
 ![image](https://github.com/JohnnyMahoney/Road-line-marking-OpenCV/assets/93386095/084fc142-a3ac-48fb-b2b9-f14dfb233021)
 
